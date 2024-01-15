@@ -22,11 +22,11 @@ using namespace LMD;
 * Lugormod-X's startup module
 *
 * Main init method of the Lugormod-X is here
-* 
+*
 **/
-class LMD_Main: Module {
+class LMD_Main : Module {
 private:
-	 bool isLMDInitialized;
+	bool isLMDInitialized;
 
 public:
 	LMD_Main() : isLMDInitialized(false) {

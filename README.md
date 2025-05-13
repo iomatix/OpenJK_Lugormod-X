@@ -103,3 +103,12 @@ Leads:
 - [Sil](https://github.com/TheSil)
 - [smcv](https://github.com/smcv) (debian packaging)
 - [Tristamus](https://tristamus.com>) (icon)
+
+
+
+
+## Contributions
+
+<a href="https://github.com/iomatix/OpenJK_Lugormod-X/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iomatix/OpenJK_Lugormod-X" />
+</a>
